@@ -1,4 +1,4 @@
-# 2021-C
+# 2020-C
 2020 program in class
 ## First code (找零錢)50元?個  5元?個  1元?個
 ```C
