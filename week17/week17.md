@@ -15,7 +15,7 @@ void draw(){
 }
 int score=0;
 void keyPressed(){
-  int len=line.lenth();
+  int len=line.length();
   if(key>='a' && key<='z')line+=key;
   if(key>='A' && key<='Z')line+=key;
   if(key == BACKSPACE && len>0)line=line.substring(0,len-1);
